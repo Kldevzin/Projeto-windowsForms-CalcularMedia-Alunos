@@ -1,0 +1,10 @@
+C:\Users\inves\Desktop\Programação\Calculadora Média alunos\Calculadora Média alunos\bin\Debug\Calculadora Média alunos.exe.config
+C:\Users\inves\Desktop\Programação\Calculadora Média alunos\Calculadora Média alunos\bin\Debug\Calculadora Média alunos.exe
+C:\Users\inves\Desktop\Programação\Calculadora Média alunos\Calculadora Média alunos\bin\Debug\Calculadora Média alunos.pdb
+C:\Users\inves\Desktop\Programação\Calculadora Média alunos\Calculadora Média alunos\obj\Debug\Calculadora Média alunos.csproj.AssemblyReference.cache
+C:\Users\inves\Desktop\Programação\Calculadora Média alunos\Calculadora Média alunos\obj\Debug\Calculadora_Média_alunos.Form1.resources
+C:\Users\inves\Desktop\Programação\Calculadora Média alunos\Calculadora Média alunos\obj\Debug\Calculadora_Média_alunos.Properties.Resources.resources
+C:\Users\inves\Desktop\Programação\Calculadora Média alunos\Calculadora Média alunos\obj\Debug\Calculadora Média alunos.csproj.GenerateResource.cache
+C:\Users\inves\Desktop\Programação\Calculadora Média alunos\Calculadora Média alunos\obj\Debug\Calculadora Média alunos.csproj.CoreCompileInputs.cache
+C:\Users\inves\Desktop\Programação\Calculadora Média alunos\Calculadora Média alunos\obj\Debug\Calculadora Média alunos.exe
+C:\Users\inves\Desktop\Programação\Calculadora Média alunos\Calculadora Média alunos\obj\Debug\Calculadora Média alunos.pdb
